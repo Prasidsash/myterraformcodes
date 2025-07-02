@@ -1,2 +1,2 @@
-resource_group_name = "Gurudevops-demo-rg"
+resource_group_name = "Venkatachalapathydevops-demo-rg"
 location            = "East US"
